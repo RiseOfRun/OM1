@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\MO_laba1\MO_laba1\obj\Debug\netcoreapp3.1\MO_laba1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MO_laba1\MO_laba1\obj\Debug\netcoreapp3.1\MO_laba1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MO_laba1\MO_laba1\obj\Debug\netcoreapp3.1\MO_laba1.AssemblyInfo.cs
+C:\Users\User\source\repos\MO_laba1\MO_laba1\bin\Debug\netcoreapp3.1\MO_laba1.exe
+C:\Users\User\source\repos\MO_laba1\MO_laba1\bin\Debug\netcoreapp3.1\MO_laba1.deps.json
+C:\Users\User\source\repos\MO_laba1\MO_laba1\bin\Debug\netcoreapp3.1\MO_laba1.runtimeconfig.json
+C:\Users\User\source\repos\MO_laba1\MO_laba1\bin\Debug\netcoreapp3.1\MO_laba1.runtimeconfig.dev.json
+C:\Users\User\source\repos\MO_laba1\MO_laba1\bin\Debug\netcoreapp3.1\MO_laba1.dll
+C:\Users\User\source\repos\MO_laba1\MO_laba1\bin\Debug\netcoreapp3.1\MO_laba1.pdb
+C:\Users\User\source\repos\MO_laba1\MO_laba1\obj\Debug\netcoreapp3.1\MO_laba1.dll
+C:\Users\User\source\repos\MO_laba1\MO_laba1\obj\Debug\netcoreapp3.1\MO_laba1.pdb
