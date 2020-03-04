@@ -14,6 +14,7 @@ namespace OM1
                 Function f2 = new Function(-10, 20, eps);
                 f1.Dih();
                 f2.Goden();
+                //test
                 Console.WriteLine($"{eps} {f1.iterations*2} {f2.iterations+1}");
             }
         }
